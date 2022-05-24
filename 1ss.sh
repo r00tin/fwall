@@ -662,3 +662,4 @@ case "$action" in
         echo " 用法: `basename $0` [menu|install|update|uninstall|start|restart|stop|showInfo|showQR|showLog]"
         ;;
 esac
+
